@@ -46,3 +46,8 @@ master 자리에는 branch이름이 들어가면 됨 branch이름이 main라하�
 
 branch이름은 develop으로
 
+
+8. branch 변경
+
+git checkout "branch이름"
+
