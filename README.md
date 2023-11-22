@@ -1,6 +1,7 @@
 # TJ_Semi_Project
 
 github에 코드 업로드하기
+
 처음 시작시
 
 1.초기화
