@@ -44,3 +44,5 @@ git push origin master
 
 master 자리에는 branch이름이 들어가면 됨 branch이름이 main라하면 git push origin main 이라고 써야함
 
+branch이름은 develop으로
+
